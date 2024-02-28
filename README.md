@@ -31,9 +31,9 @@ Also a dashboard for the presentation of some basic statistics can be found here
 [PM2.5 Summary Statistics](https://public.tableau.com/app/profile/ioannis.chal/viz/PM2_5AirPollutionAnalysis2000-2014/PM2_5AirPollution2000-2014)
 
 
-**Maven Market Analysis**
+**AdventureWorks Analysis**
 
-- Analyzed key metrics for Maven Market. Identified the best customers and the profit per country and also the performance of each product and what customers characteristics affect the most the revenue of the company.
+- Analyzed key metrics for AdventureWorks shop. Identified the best customers and the profit per country and also the performance of each product and what customers characteristics affect the most the revenue of the company.
 
 ![Maven Market Analysis Dashboard](./images/main_dashboard.png)
 
