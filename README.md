@@ -1,9 +1,9 @@
 # Data Analyst
 
 ### Education 
-*MSc. in  Business Analytics National and Kapodistrian University of Athens, Athens 2021-2023*
+- *MSc. in  Business Analytics National and Kapodistrian University of Athens, Athens 2021-2023*
 
-*BA in Economics National and Kapodistrian University of Athens, Athens 2014-2020*
+- *BA in Economics National and Kapodistrian University of Athens, Athens 2014-2020*
 
 ### Work Experience
 **Junior Business Analyst Intern** _Electrolux Group Krakow (October 2023 - December 2023)_
