@@ -1,11 +1,11 @@
 # Data Analyst
 
 ### Education 
-- *MSc. in  Business Analytics National and Kapodistrian University of Athens, Athens 2021-2023*
+- **MSc. in  Business Analytics** National and Kapodistrian University of Athens, _Athens 2021-2023_
 
   -----
   
-- *BA in Economics National and Kapodistrian University of Athens, Athens 2014-2020*
+- **BA in Economics** National and Kapodistrian University of Athens, _Athens 2014-2020_
 
   -----
 
