@@ -2,7 +2,7 @@
 
 ### Education 
 - *MSc. in  Business Analytics National and Kapodistrian University of Athens, Athens 2021-2023*
-  ---  
+  -  
   
 - *BA in Economics National and Kapodistrian University of Athens, Athens 2014-2020*
 
