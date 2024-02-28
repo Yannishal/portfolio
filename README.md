@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Education 
+**### Education** 
 - **MSc. in  Business Analytics** , National and Kapodistrian University of Athens, _Athens 2021-2023_
 
   -----
@@ -9,7 +9,7 @@
 
   -----
 
-### Work Experience
+**### Work Experience**
 **Junior Business Analyst Intern** , Electrolux Group Krakow  _(October 2023 - December 2023)_
 - Utilized Microsoft Excel’s VBA to automate the manual task of SAP data extraction process leading to a
 decrease in data extraction time from 10 minutes to 1 minute.
