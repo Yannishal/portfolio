@@ -1,6 +1,6 @@
 # Data Analyst
 
-**### Education** 
+## Education 
 - **MSc. in  Business Analytics** , National and Kapodistrian University of Athens, _Athens 2021-2023_
 
   -----
@@ -9,7 +9,7 @@
 
   -----
 
-**### Work Experience**
+## Work Experience
 **Junior Business Analyst Intern** , Electrolux Group Krakow  _(October 2023 - December 2023)_
 - Utilized Microsoft Excel’s VBA to automate the manual task of SAP data extraction process leading to a
 decrease in data extraction time from 10 minutes to 1 minute.
@@ -18,7 +18,7 @@ decrease in data extraction time from 10 minutes to 1 minute.
 - Lecture the undergraduate students about fundamental statistics and Microsoft Excel’s functions and
 charts. 
 
-### Projects
+## Projects
 **Global Analysis of PM2.5 Main Drivers**
 
 - Analyzed the impact of variables like GDP per capita, fossil fuels consumption, energy consumption, industry percentage to GDP and population/km2, for a total of 114 countries and created clusters of countries using K-means clustering. After K-means clustering implementation Panel Data Regression models utilized in Stata in order to indetify the impact of each variable in each cluster on PM2.5. Data collected through World Bank Data for the years 2000-2014. Python, R and Stata was the main tools for this project. Some of the code can be found here.
