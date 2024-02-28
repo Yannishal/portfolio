@@ -7,6 +7,8 @@
   
 - *BA in Economics National and Kapodistrian University of Athens, Athens 2014-2020*
 
+  -----
+
 ### Work Experience
 **Junior Business Analyst Intern** _Electrolux Group Krakow (October 2023 - December 2023)_
 - Utilized Microsoft Excel’s VBA to automate the manual task of SAP data extraction process leading to a
