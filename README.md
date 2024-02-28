@@ -10,11 +10,11 @@
   -----
 
 ### Work Experience
-**Junior Business Analyst Intern** |  _Electrolux Group Krakow (October 2023 - December 2023)_
+**Junior Business Analyst Intern** |  Electrolux Group Krakow _(October 2023 - December 2023)_
 - Utilized Microsoft Excel’s VBA to automate the manual task of SAP data extraction process leading to a
 decrease in data extraction time from 10 minutes to 1 minute.
 
-**Professor's Assistant** |  _National and Kapodistrian University of Athens (November 2021 - January 2022)_ 
+**Professor's Assistant** |  National and Kapodistrian University of Athens _(November 2021 - January 2022)_ 
 - Lecture the undergraduate students about fundamental statistics and Microsoft Excel’s functions and
 charts. 
 
