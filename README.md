@@ -37,7 +37,7 @@ Also a dashboard for the presentation of some basic statistics can be found here
 
 ![Maven Market Analysis Dashboard](./images/main_dashboard.png)
 
-[Maven Market Repo](https://github.com/Yannishal/Power_BI_repository)
+[AdventureWorks Analysis](https://github.com/Yannishal/Power_BI_repository)
 
 **Athens-Greece PM2.5 Concentrations 2020-2023**
 
