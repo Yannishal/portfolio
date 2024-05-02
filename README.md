@@ -39,7 +39,7 @@ Also a dashboard for the presentation of some basic statistics can be found here
 
 [AdventureWorks Analysis](https://github.com/Yannishal/Power_BI_repository)
 
-**Athens-Greece PM2.5 Concentrations 2020-2023**
+**Covid-19 Effect on Air Pollution PM2.5 Concentrations Levels, Athens 2020-2023**
 
 - An analysis with data collected through OPENAQ API with python in order to indetify the impact of covid restrictions. Data cleaning and manipulation implemented with python and pandas library to transform the data to hourly, daily, monthly and annual. The results are presented to the following dashboard in tableau public.
 
