@@ -28,7 +28,7 @@ charts.
 Also a dashboard for the presentation of some basic statistics can be found here.
 ![Tableau Statistics Dashboard PM2.5](./images/tableau.png)
 
-**Tableau Public Link** [PM2.5 Summary Statistics](https://public.tableau.com/app/profile/ioannis.chal/viz/PM2_5AirPollutionAnalysis2000-2014/PM2_5AirPollution2000-2014)
+**Tableau Public Link :** [PM2.5 Summary Statistics](https://public.tableau.com/app/profile/ioannis.chal/viz/PM2_5AirPollutionAnalysis2000-2014/PM2_5AirPollution2000-2014)
 
 
 **AdventureWorks Analysis**
@@ -37,7 +37,7 @@ Also a dashboard for the presentation of some basic statistics can be found here
 
 ![Maven Market Analysis Dashboard](./images/main_dashboard.png)
 
-**Github Power BI repository** [AdventureWorks Analysis](https://github.com/Yannishal/Power_BI_repository)
+**Github Power BI repository :** [AdventureWorks Analysis](https://github.com/Yannishal/Power_BI_repository)
 
 **Air Pollution Analysis|Attiki,Greece and Covid-19 impact**
 
