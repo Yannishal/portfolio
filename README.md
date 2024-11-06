@@ -39,9 +39,9 @@ Also a dashboard for the presentation of some basic statistics can be found here
 
 [AdventureWorks Analysis](https://github.com/Yannishal/Power_BI_repository)
 
-**Covid-19 Effect on Air Pollution PM2.5 Concentrations Levels, Athens 2020-2023**
+**Air Pollution Analysis|Attiki,Greece and Covid-19 impact**
 
-- An analysis with data collected through OPENAQ API with python in order to indetify the impact of covid restrictions. Data cleaning and manipulation implemented with python and pandas library to transform the data to hourly, daily, monthly and annual. The results are presented to the following dashboard in tableau public.
+- Analyzed daily data from the OpenAQ API from 2020 to 2023 to examine the patterns of Fine Particulate Matter (PM2.5) across different times of day, seasons, and during the COVID-19 pandemic. Used Python and the Pandas library to collect, clean, and prepare the data for analysis in Tableau. The findings revealed that daytime air pollution levels were 70% lower than night-time levels, with winter consistently showing the highest pollution. During COVID-19 lockdowns, PM2.5 levels were 20% lower, particularly in winter, compared to non-lockdown periods. 
 
-![Tableau Athens PM2.5 Dashboard](./images/tableau2.png)
-[Athens PM2.5 Dashboard](https://public.tableau.com/app/profile/ioannis.chal/viz/AtticaGRPM2_5AirPollution20204-20238/AttikiGRPM2_5)
+![Air Pollution Analysis-Attiki,Greece and Covid-19 impact](./images/Tableau Air Pollution Analysis AttiKi,Greece and Covid-19 impact.png)
+[Athens PM2.5 Dashboard](https://public.tableau.com/app/profile/ioannis.chal/viz/AirPollutionAnalysisPM2_5AttikiGreece2020-2023/AirPollutionAnalysisAttikiGreece)
