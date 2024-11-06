@@ -23,12 +23,12 @@ charts.
 
 - Analyzed the impact of variables like GDP per capita, fossil fuels consumption, energy consumption, industry percentage to GDP and population/km2, for a total of 114 countries and created clusters of countries using K-means clustering. After K-means clustering implementation Panel Data Regression models utilized in Stata in order to indetify the impact of each variable in each cluster on PM2.5. Data collected through World Bank Data for the years 2000-2014. Python, R and Stata was the main tools for this project. Some of the code can be found here.
   
-[Project code-repository](https://github.com/Yannishal/Python_projects/tree/main/air_pollution_project)
+**Github Link:** [Project code-repository](https://github.com/Yannishal/Python_projects/tree/main/air_pollution_project)
 
 Also a dashboard for the presentation of some basic statistics can be found here.
 ![Tableau Statistics Dashboard PM2.5](./images/tableau.png)
 
-[PM2.5 Summary Statistics](https://public.tableau.com/app/profile/ioannis.chal/viz/PM2_5AirPollutionAnalysis2000-2014/PM2_5AirPollution2000-2014)
+**Tableau Public Link** [PM2.5 Summary Statistics](https://public.tableau.com/app/profile/ioannis.chal/viz/PM2_5AirPollutionAnalysis2000-2014/PM2_5AirPollution2000-2014)
 
 
 **AdventureWorks Analysis**
@@ -37,11 +37,11 @@ Also a dashboard for the presentation of some basic statistics can be found here
 
 ![Maven Market Analysis Dashboard](./images/main_dashboard.png)
 
-[AdventureWorks Analysis](https://github.com/Yannishal/Power_BI_repository)
+**Github Power BI repository** [AdventureWorks Analysis](https://github.com/Yannishal/Power_BI_repository)
 
 **Air Pollution Analysis|Attiki,Greece and Covid-19 impact**
 
 - Analyzed daily data from the OpenAQ API from 2020 to 2023 to examine the patterns of Fine Particulate Matter (PM2.5) across different times of day, seasons, and during the COVID-19 pandemic. Used Python and the Pandas library to collect, clean, and prepare the data for analysis in Tableau. The findings revealed that daytime air pollution levels were 70% lower than night-time levels, with winter consistently showing the highest pollution. During COVID-19 lockdowns, PM2.5 levels were 20% lower, particularly in winter, compared to non-lockdown periods. 
 
 ![Air Pollution Analysis-Attiki,Greece and Covid-19 impact](./images/tableau_air_pollution.png)
--Tableau Public Link: [Athens PM2.5 Dashboard](https://public.tableau.com/app/profile/ioannis.chal/viz/AirPollutionAnalysisPM2_5AttikiGreece2020-2023/AirPollutionAnalysisAttikiGreece)
+**Tableau Public Link:** [Athens PM2.5 Dashboard](https://public.tableau.com/app/profile/ioannis.chal/viz/AirPollutionAnalysisPM2_5AttikiGreece2020-2023/AirPollutionAnalysisAttikiGreece)
