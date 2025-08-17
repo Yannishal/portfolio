@@ -26,6 +26,7 @@ charts.
 **Euroleague Team & Player Performance Analysis 2024-2025**
 
 - Teams and Players Performance analysis for regular season including advanced metrics like PIR,eFG%. Data Collection, Data Cleaning, Data Modeling with Python and Dashboard creation with Tableau.
+
 **Overview**
 ![Euroleague](./images/euroleague_project.png)
 
