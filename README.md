@@ -10,7 +10,11 @@
   -----
 
 ## Work Experience
-**Junior Business Analyst Intern** , Electrolux Group Krakow  _(October 2023 - December 2023)_
+**Business Intelligence Specialist** , Circana, Athens _(April 2025 - Present)_
+- Delivered weekly, monthly reports to high value clients like PepsiCo and Ferrero ensuring data integrity and a clear end-user experience while communicating actionable product insights.
+- Optimized reports using Power Query (M Code) and DAX in Microsoft Excel, reducing update time, minimizing errors, and enhancing UI/UX for greater impact.
+
+**Junior Business Analyst Intern** , Electrolux Group, Krakow  _(October 2023 - December 2023)_
 - Utilized Microsoft Excel’s VBA to automate the manual task of SAP data extraction process leading to a
 decrease in data extraction time from 10 minutes to 1 minute.
 
