@@ -27,7 +27,7 @@ charts.
 
 - Teams and Players Performance analysis for regular season including advanced metrics like PIR,eFG%. Data Collection, Data Cleaning, Data Modeling with Python and Dashboard creation with Tableau.
 **Overview**
-![Euroleague](.images/euroleague_project.png)
+![Euroleague](./images/euroleague_project.png)
 
 **Tableau Public Link :** [Euroleague_Project](https://public.tableau.com/app/profile/ioannis.chal/viz/EuroleagueSeason2024-2025PlayerTeamAnalysis/PlayerPerformanceAnalysis)
 
