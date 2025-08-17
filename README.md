@@ -23,6 +23,15 @@ decrease in data extraction time from 10 minutes to 1 minute.
 charts. 
 
 ## Projects
+**Euroleague Team & Player Performance Analysis 2024-2025**
+
+- Teams and Players Performance analysis for regular season including advanced metrics like PIR,eFG%. Data Collection, Data Cleaning, Data Modeling with Python and Dashboard creation with Tableau.
+**Overview**
+![Euroleague](.images/euroleague_project.png)
+
+**Tableau Public Link :** [Euroleague_Project](https://public.tableau.com/app/profile/ioannis.chal/viz/EuroleagueSeason2024-2025PlayerTeamAnalysis/PlayerPerformanceAnalysis)
+
+
 **Global Analysis of PM2.5 Main Drivers**
 
 - Analyzed the impact of variables like GDP per capita, fossil fuels consumption, energy consumption, industry percentage to GDP and population/km2, for a total of 114 countries and created clusters of countries using K-means clustering. After K-means clustering implementation Panel Data Regression models utilized in Stata in order to indetify the impact of each variable in each cluster on PM2.5. Data collected through World Bank Data for the years 2000-2014. Python, R and Stata was the main tools for this project. Some of the code can be found here.
