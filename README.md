@@ -1,4 +1,4 @@
-# Data Analyst
+# Business Intelligence Specialist
 
 ## Education 
 - **MSc. in  Business Analytics** , National and Kapodistrian University of Athens, _Athens 2021-2023_
@@ -31,6 +31,15 @@ charts.
 ![Euroleague](./images/euroleague_project.png)
 
 **Tableau Public Link :** [Euroleague_Project](https://public.tableau.com/app/profile/ioannis.chal/viz/EuroleagueSeason2024-2025PlayerTeamAnalysis/PlayerPerformanceAnalysis)
+
+**My Spotify Wrapped 2024**
+
+- Analyzed personal data obtained through a Spotify request. Prepared data using Python to model them and create the schema in Power BI. DAX calculations to identify key patterns and listening habits.
+
+**Overview**
+![Spotify Wrapped 2024](./images/spotify_project.png)
+
+**Power BI Link :** [My Spotify Wrapped 2024](https://app.powerbi.com/view?r=eyJrIjoiMzk2MjQwOWMtZDMzMC00MGEzLTg5NjUtZWQ3YTM2MGYwNzZjIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9&embedImagePlaceholder=true)
 
 
 **Global Analysis of PM2.5 Main Drivers**
